@@ -6,7 +6,7 @@
 
 #### Step 1. Change directory to Terraform. Update backend.tf with relevant information for your environment. 
 
-#### Step 2. Update terraform.tfvars file and add your VPC name. It is important because you will use existing VPC. Other parameters can be changed too.
+#### Step 2. Update terraform.tfvars file and add your VPC name. It is important because you will use existing VPC.
 ```bash
 vpc_name = "YOUR_VPC_NAME"
 ```
