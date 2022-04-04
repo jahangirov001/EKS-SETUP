@@ -1,6 +1,6 @@
 # EKS cluster with Terraform using existing VPC
 
-![topology](images/Logos.png)
+![topology](images/Logos.jpeg)
 
 ### How to deploy EKS cluster with Terraform configuration files?
 
