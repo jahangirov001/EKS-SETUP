@@ -29,4 +29,4 @@ node_group_desired_size   = "1"
 ###############################################
 #               VPC variables                 #
 ###############################################
-vpc_name = "YOUR VPC NAME"
+vpc_name = "YOUR_VPC_NAME"
